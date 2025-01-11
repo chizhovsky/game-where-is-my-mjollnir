@@ -2,14 +2,14 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags:
   - Platform
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Enemies
   - Water
   - UI
   - 
@@ -57,3 +57,5 @@ TagManager:
   - name: Shield
     uniqueID: 3345461193
     locked: 0
+  m_RenderingLayers:
+  - Default
